@@ -27,8 +27,8 @@ main>.container {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: var(--cr-dark-color);
-    color: var(--cr-light-color);
+    background-color: var(--cr-light-color);
+    color: var(--cr-dark-color);
 }
 
 .socialicons>a {
@@ -51,11 +51,17 @@ main>.container {
 }
 
 .techIcons{
-    font-size: 3rem;
+    font-size: 3.5rem;
 
 }
 
 .techIcons2{
-    font-size: 3.5rem;
+    font-size: 4rem;
     
+}
+
+
+.messagestyle{
+    font-size: 1.5rem;
+    font-weight: bold;
 }
